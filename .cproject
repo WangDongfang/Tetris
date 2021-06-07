@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	<storageModule moduleId="org.eclipse.cdt.core.settings">
+		<cconfiguration id="org.eclipse.cdt.core.default.config.399800563">
+			<storageModule buildSystemId="org.eclipse.cdt.core.defaultConfigDataProvider" id="org.eclipse.cdt.core.default.config.399800563" moduleId="org.eclipse.cdt.core.settings" name="Configuration">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
+	<storageModule moduleId="org.eclipse.cdt.core.pathentry">
+		<pathentry base-ref="Tetris" include="D:/workspace_sylixos/s3c2440_base/libVxWorks/target/h" kind="inc" path="" system="true"/>
+		<pathentry base-ref="Tetris" include="D:/workspace_sylixos/s3c2440_base/libsylixos/SylixOS" kind="inc" path="" system="true"/>
+		<pathentry base-ref="Tetris" include="D:/workspace_sylixos/s3c2440_base/libsylixos/SylixOS/include" kind="inc" path="" system="true"/>
+		<pathentry base-ref="Tetris" include="D:/workspace_sylixos/s3c2440_base/libcextern/libcextern/include" kind="inc" path="" system="true"/>
+		<pathentry base-ref="Tetris" include="C:/ACOINFO/RealEvo/compiler/arm-sylixos-toolchain/lib/gcc/arm-sylixos-eabi/4.9.3/include" kind="inc" path="" system="true"/>
+		<pathentry base-ref="Tetris" include="C:/ACOINFO/RealEvo/compiler/arm-sylixos-toolchain/arm-sylixos-eabi/include" kind="inc" path="" system="true"/>
+		<pathentry base-ref="Tetris" include="D:/workspace_sylixos/s3c2440_base/libsylixos/SylixOS/include/network" kind="inc" path="" system="true"/>
+		<pathentry excluding="obj|dep" kind="out" path="Debug"/>
+		<pathentry excluding="obj|dep" kind="out" path="Release"/>
+	</storageModule>
+</cproject>
