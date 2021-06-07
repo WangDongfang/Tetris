@@ -1,5 +1,5 @@
 /*==============================================================================
-** tetris.h -- Tetris Private Structs and Macros.
+** msg.h -- Tetris shared Structs & Enum between core and ui.
 **
 ** MODIFY HISTORY:
 **

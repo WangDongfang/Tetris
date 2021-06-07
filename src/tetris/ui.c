@@ -1,5 +1,5 @@
 /*==============================================================================
-** tty_tetris.c -- a tetris game in tty.
+** ui.c -- a tetris game in tty.
 **
 ** MODIFY HISTORY:
 **
